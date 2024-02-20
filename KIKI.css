@@ -1,0 +1,128 @@
+.longtableau{
+    font-family: 'Linux Libertine','Georgia','Times','Source Serif Pro',serif;
+}
+.aprestableau{
+    font-family:sans-serif;
+    margin-left:30px;
+    margin-right:20px;
+}
+.grostitre{
+    font-size:30px;
+    font-weight:300;
+    
+}
+
+.imagewiki{
+    margin-left:700px;
+}
+.imagemoi{
+    margin-left:100px;
+}
+
+.Bold{
+    font-weight:700;
+    
+}
+
+.entete{
+    border-bottom:1px solid black;
+    display:flex;
+    margin-bottom:20px;
+}
+.letitre{
+ 
+    margin-left: 30px;
+    margin-right: 20px;
+    width:300px;
+}
+.limage{
+
+    margin-right: 20px;
+    width:100px;
+}
+.tableau-style {
+    border-collapse:collapse;
+    min-width:400px;
+    width:auto;
+    margin-right:20px;
+    border:1px solid midnightblue;
+}
+
+
+
+thead tr {
+    background-color:lightgreen;
+    color:black;
+    text-align:center;
+}
+.fiches{
+    background-color:RGB(255,255,150);
+    color:black;
+    text-align:center;
+}
+
+th, td{
+    padding :15px 20px;
+    border: 2px solid midnightblue;
+    
+}
+
+tbody, tr, td, th {
+    border: 1px solid #ddd;
+    font-size:14px;
+    
+}
+
+.tableau{
+    margin-top:20px;
+}
+.conteneurgrandepage{
+    display:flex;
+    font-family: sans-serif;
+}
+.intro{
+    margin-left: 30px;
+    margin-right: 20px;
+    width:1300px;
+}
+.normal{
+    font-size:14px;
+    line-height:20px;
+}
+.titresection{
+    border-bottom:1px solid black;
+    margin-top:30px;
+    margin-bottom:20px;
+}
+.center{
+    text-align:center;
+}
+.italic{
+    font-style:italic;
+}
+.comp{
+    background-color:RGB(200,220,255);
+    color:black;
+    text-align:center;
+}
+.right{
+    text-align:right;
+}
+.soustitre{
+    font-size:14px;
+    border-bottom:dotted 1px black;
+}
+.imagexp1{
+    margin-left:20px;
+    margin-top:55px;
+}
+.imagexp2{
+    margin-right:20px;
+    margin-top:20px;
+}
+.cevedia{
+    letter-spacing:3px;
+}
+.exp{
+    width:auto;
+}
