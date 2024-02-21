@@ -11,7 +11,10 @@
     font-weight:300;
     
 }
-
+.imagexp1bis{
+    margin-left:20px;
+    margin-top:20px;
+}
 .imagewiki{
     margin-left:700px;
 }
@@ -114,10 +117,23 @@ tbody, tr, td, th {
 }
 .imagexp1{
     margin-left:20px;
-    margin-top:55px;
+    margin-top:20px;
 }
+
 .imagexp2{
     margin-right:20px;
+    margin-top:30px;
+}
+.imagexp3{
+    margin-left:20px;
+    margin-top:20px;
+}
+.imagexp4{
+    margin-right:20px;
+    margin-top:5px;
+}
+.imagexp5{
+    margin-left:20px;
     margin-top:20px;
 }
 .cevedia{
@@ -125,4 +141,5 @@ tbody, tr, td, th {
 }
 .exp{
     width:auto;
+    
 }
