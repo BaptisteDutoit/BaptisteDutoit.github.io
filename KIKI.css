@@ -91,6 +91,7 @@ tbody, tr, td, th {
 .normal{
     font-size:14px;
     line-height:20px;
+    text-align:justify;
 }
 .titresection{
     border-bottom:1px solid black;
@@ -124,7 +125,15 @@ tbody, tr, td, th {
     margin-right:20px;
     margin-top:30px;
 }
+.imagexp2b{
+    margin-right:20px;
+    margin-top:20px;
+}
 .imagexp3{
+    margin-left:20px;
+    margin-top:20px;
+}
+.imagexp3b{
     margin-left:20px;
     margin-top:20px;
 }
