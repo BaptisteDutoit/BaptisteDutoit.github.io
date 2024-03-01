@@ -149,8 +149,7 @@ tbody, tr, td, th {
     letter-spacing:3px;
 }
 .exp{
-    width:auto;
-    
+    width:auto;    
 }
 ul{
     list-style-type: square;
@@ -158,4 +157,15 @@ ul{
 .projet{
     border-bottom:dashed 1px black;
     font-size:14px;
+}
+.video-container {
+  z-index: 1;
+  margin-left:20px;
+  margin-right:20px;
+  margin-top:15px;
+}
+
+video {
+  max-width: 300%;
+  max-height: 300%;
 }
