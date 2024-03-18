@@ -119,37 +119,44 @@ tbody, tr, td, th {
     margin-left:20px;
     margin-top:20px;
     margin-right:20px;
+    text-align:right;
 }
 
 .imagexp2{
     margin-right:20px;
     margin-top:30px;
     margin-left:20px;
+    text-align:left;
 }
 .imagexp2b{
     margin-right:20px;
     margin-top:20px;
     margin-left:20px;
+    text-align:left;
 }
 .imagexp3{
     margin-left:20px;
     margin-top:20px;
     margin-right:20px;
+    text-align:right;
 }
 .imagexp3b{
     margin-left:20px;
     margin-top:20px;
     margin-right:20px;
+    text-align:right;
 }
 .imagexp4{
     margin-right:20px;
     margin-top:5px;
     margin-left:20px;
+    text-align:left;
 }
 .imagexp5{
     margin-left:20px;
     margin-top:20px;
     margin-right:20px;
+    text-align:right;
 }
 .cevedia{
     letter-spacing:3px;
