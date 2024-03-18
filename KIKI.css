@@ -35,13 +35,12 @@
 .letitre{
  
     margin-left: 30px;
-    margin-right: 20px;
-    width:400px;
+    width:600px;
 }
 .limage{
 
-    margin-right: 20px;
-    width:100px;
+    margin-left: 20px;
+
 }
 .tableau-style {
     border-collapse:collapse;
@@ -119,36 +118,44 @@ tbody, tr, td, th {
 .imagexp1{
     margin-left:20px;
     margin-top:20px;
+    margin-right:20px;
 }
 
 .imagexp2{
     margin-right:20px;
     margin-top:30px;
+    margin-left:20px;
 }
 .imagexp2b{
     margin-right:20px;
     margin-top:20px;
+    margin-left:20px;
 }
 .imagexp3{
     margin-left:20px;
     margin-top:20px;
+    margin-right:20px;
 }
 .imagexp3b{
     margin-left:20px;
     margin-top:20px;
+    margin-right:20px;
 }
 .imagexp4{
     margin-right:20px;
     margin-top:5px;
+    margin-left:20px;
 }
 .imagexp5{
     margin-left:20px;
     margin-top:20px;
+    margin-right:20px;
 }
 .cevedia{
     letter-spacing:3px;
 }
-.exp{    
+.exp{
+  width:auto;
 }
 ul{
     list-style-type: square;
@@ -160,11 +167,14 @@ ul{
 .video-container {
   z-index: 1;
   margin-left:20px;
-  margin-right:20px;
+  margin-right:40px;
   margin-top:15px;
 }
 
 video {
   max-width: 300%;
   max-height: 300%;
+}
+.barre{
+  text-decoration: line-through;
 }
