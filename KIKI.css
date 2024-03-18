@@ -1,6 +1,7 @@
 .longtableau{
     font-family: 'Linux Libertine','Georgia','Times','Source Serif Pro',serif;
     box-sizing: border-box;
+    width:auto;
 }
 .aprestableau{
     font-family:sans-serif;
@@ -166,7 +167,7 @@ tbody, tr, td, th {
 .exp{
     margin-left: 30px;
     margin-right: 20px;
-    width:1300px;
+    width:auto;
 }
 ul{
     list-style-type: square;
