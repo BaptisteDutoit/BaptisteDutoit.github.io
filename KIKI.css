@@ -2,6 +2,7 @@
     font-family: 'Linux Libertine','Georgia','Times','Source Serif Pro',serif;
     box-sizing: border-box;
     width:auto;
+    min-width:1000px;
 }
 .aprestableau{
     font-family:sans-serif;
